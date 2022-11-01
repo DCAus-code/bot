@@ -1,0 +1,19 @@
+* {
+	padding: 0%;
+	margin: 0%;
+}
+
+h1 {
+	font-family: -apple-system, sans-serif;
+	padding-top: 10rem;
+	text-align: center;
+	font-weight: 200;
+}
+
+.first {
+	color: #345;
+}
+
+.second {
+	color: #9eaab6;
+}
